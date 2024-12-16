@@ -1,0 +1,28 @@
+{
+  "todolist": [
+    {
+      "id": "ee0ea464-f75c-4847-1830-bd4a7586c2e5",
+      "name": "yes",
+      "email": "mgmg@gmail.com",
+      "complete": true
+    },
+    {
+      "id": "0604a394-778c-9d1d-89a8-2b75c1771ec7",
+      "name": "ho",
+      "email": "mgmg@gmail.com",
+      "complete": "false"
+    },
+    {
+      "id": "3bf87c66-d60c-3a5b-b374-12931fd2fccd",
+      "name": "Learn",
+      "email": "mgmg@gmail.com",
+      "complete": true
+    },
+    {
+      "id": "13043dc2-311b-7886-1642-daeed62e6cac",
+      "name": "mi pu tike",
+      "email": "mgmg@gmail.com",
+      "complete": true
+    }
+  ]
+}
